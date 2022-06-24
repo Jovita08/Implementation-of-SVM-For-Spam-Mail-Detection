@@ -19,8 +19,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Program:
 ```
 Program to implement the SVM For Spam Mail Detection..
-Developed by: Shafeeq Ahamed.S
-RegisterNumber:  212221230092
+Developed by: Virgil Jovita.A
+RegisterNumber:  212221240062
 ```
 
 ```py
